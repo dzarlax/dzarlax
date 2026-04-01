@@ -17,4 +17,4 @@ I run a self-hosted ecosystem on Hetzner VPS that connects AI assistants, health
 
 #### Get in touch
 
-[dzarlax.dev](https://dzarlax.dev) · [Telegram](https://t.me/dzarlax)
+[dzarlax.dev](https://dzarlax.dev)
