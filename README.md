@@ -4,7 +4,7 @@ Senior Product Manager at [Constructor](https://constructor.tech) by day. Buildi
 
 #### What I'm working on
 
-I run a self-hosted ecosystem on Hetzner VPS that connects AI assistants, health tracking, smart home, and daily information into one system:
+I run a self-hosted ecosystem on a VPS that connects AI assistants, health tracking, smart home, and daily information into one system:
 
 - **[Dzarlax AI](https://github.com/Dzarlax-AI)** — the AI side: Telegram assistant, semantic memory, health analytics, news summarization
 - **[HomeDash](https://github.com/dzarlax/homedash)** — 7" ESP32 touchscreen that brings it all together on my wall
